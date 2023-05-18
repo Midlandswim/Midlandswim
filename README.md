@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Midlandswim
-- 👀 I’m interested in ... engineering and programming.
-- 🌱 I’m currently learning ... all types of engineering, medical, and programming topics.
-- 💞️ I’m looking to collaborate on ... anything.
-- 📫 How to reach me ... @ wilson.dhalwani@gmail.com
-
-
 ## Wilson Dhalwani
 
 Engineering Student interested in Electrical Engineering, Aerospace Engineering, Mechanical Engineering, Biomedical Engineering, Enviromental Engineering, Robotics, Programming, and Design. 
