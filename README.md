@@ -1,6 +1,6 @@
 ## Wilson Dhalwani
 
-Engineering Student interested in Electrical Engineering, Aerospace Engineering, Mechanical Engineering, Biomedical Engineering, Enviromental Engineering, Robotics, Programming, and Design. 
+Engineering Student interested in Engineering, Robotics, Programming, Research, and Design. 
 
 #### Contact Me
 - Linkedin: https://www.linkedin.com/in/wilsondhalwani/ 
