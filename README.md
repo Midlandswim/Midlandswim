@@ -17,8 +17,9 @@ Engineering Student interested in Engineering, Robotics, Programming, Research, 
 - English, Marathi, French 
 
 #### Interests/Hobbies
-- 3D Printing and Design 
+- 3D Printing/Design 
 - Competitive Swimming
+- Aerospace/Defense 
 - Cooking 
 - Stock Market 
 - Research 
