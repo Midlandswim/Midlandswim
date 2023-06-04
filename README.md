@@ -10,7 +10,7 @@ Engineering Student interested in Engineering, Robotics, Programming, Research, 
 #### Skills
 - Autodesk Inventor, Autodesk Fusion360, Autodesk Revit 
 - KiCAD, MATLAB, OpenRocket, Cura
-- VSCode, Arduino IDE, Notepad++
+- VSCode, Arduino IDE, LaTeX, Notepad++
 - Python, Java, Arduino C++, OpenCV
 - Microsoft Office Suite
 - Adobe Photoshop, Adobe Illustrator 
