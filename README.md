@@ -24,6 +24,7 @@ Engineering Student interested in Engineering, Robotics, Programming, Research, 
 - Stock Market 
 - Research 
 - Chess 
+- Trumpet (B♭)
 - DIY/Hobby Projects
 ##
 
