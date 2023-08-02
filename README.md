@@ -8,7 +8,7 @@ Engineering Student interested in Engineering, Robotics, Programming, Research, 
 - Email: wilson.dhalwani@gmail.com
 
 #### Skills
-- Autodesk Inventor, Autodesk Fusion360, Autodesk Revit 
+- Autodesk Inventor, Autodesk Fusion360, AutoCAD, Autodesk Revit 
 - KiCAD, MATLAB, OpenRocket, Cura
 - VSCode, Arduino IDE, LaTeX, Notepad++
 - Python, Java, Arduino C++, OpenCV
