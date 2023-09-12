@@ -3,9 +3,12 @@
 Engineering Student interested in Electrical Engineering, Programming, Research, Avionics, Robotics, and Design. 
 
 #### Contact Me
-- Linkedin: https://www.linkedin.com/in/wilsondhalwani/ 
-- GrabCAD: https://grabcad.com/midlandswim-1 
 - Email: wilson.dhalwani@gmail.com
+- Linkedin: https://www.linkedin.com/in/wilsondhalwani/
+- Website: https://wilsondhalwani.wixsite.com/portfolio
+- GrabCAD: https://grabcad.com/midlandswim-1 
+
+
 
 #### Skills
 - Autodesk Inventor, Autodesk Fusion360, AutoCAD, Autodesk Revit 
