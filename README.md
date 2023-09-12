@@ -1,6 +1,6 @@
 ## Wilson Dhalwani
 
-Engineering Student interested in Engineering, Robotics, Programming, Research, and Design. 
+Engineering Student interested in Electrical Engineering, Programming, Research, Avionics, Robotics, and Design. 
 
 #### Contact Me
 - Linkedin: https://www.linkedin.com/in/wilsondhalwani/ 
