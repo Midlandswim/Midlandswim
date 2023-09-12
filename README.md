@@ -21,8 +21,10 @@ Engineering Student interested in Electrical Engineering, Programming, Research,
 
 #### Interests/Hobbies
 - 3D Printing/Design 
-- Competitive Swimming
-- Aerospace/Defense 
+- Competitive Swimming and Waterpolo
+- Aerospace/Defense
+- FTC Robotics
+- Avionics
 - Cooking 
 - Stock Market 
 - Research 
