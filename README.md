@@ -17,7 +17,6 @@ Engineering Student interested in Electrical Engineering, Programming, Research,
 - Python, Java, Arduino C++, OpenCV
 - Microsoft Office Suite
 - Adobe Photoshop, Adobe Illustrator 
-- English, Marathi, French 
 
 #### Interests/Hobbies
 - 3D Printing/Design 
