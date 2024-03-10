@@ -5,7 +5,8 @@ Engineering Student interested in Electrical Engineering, Programming, Research,
 #### Contact Me
 - Email: wilson.dhalwani@gmail.com
 - Linkedin: https://www.linkedin.com/in/wilsondhalwani/
-- GrabCAD: https://grabcad.com/midlandswim-1 
+- GrabCAD: https://grabcad.com/midlandswim-1
+- Dhalwani Designs: https://www.linkedin.com/company/dhalwanidesigns
 
 
 
