@@ -1,10 +1,10 @@
 ## Wilson Dhalwani
 
-Engineering Student interested in Electrical Engineering, Programming, Research, Avionics, Defence, Robotics, and Design. 
+Student interested in Electrical/Computer Engineering, Programming, Research, Avionics, Defence, and Electronics. 
 
 #### Contact Me
 - Email: wilson.dhalwani@gmail.com
-- Linkedin: https://www.linkedin.com/in/wilsondhalwani/
+- LinkedIn: https://www.linkedin.com/in/wilsondhalwani/
 - GrabCAD: https://grabcad.com/midlandswim-1
 - Dhalwani Designs: https://www.linkedin.com/company/dhalwanidesigns
   
